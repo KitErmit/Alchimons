@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemons", "Alchemons\Alchemons.csproj", "{22D0C229-F2AE-42F9-AA6E-691F755782AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D0C229-F2AE-42F9-AA6E-691F755782AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D0C229-F2AE-42F9-AA6E-691F755782AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D0C229-F2AE-42F9-AA6E-691F755782AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D0C229-F2AE-42F9-AA6E-691F755782AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3204163-62E9-4A12-A809-EE63DF8F4774}
+	EndGlobalSection
+EndGlobal

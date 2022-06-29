@@ -1,0 +1,20 @@
+Теги: 
+#PlayerName#
+#PlayerGroshi#
+#AlchemonPrise#
+#Valyta#
+#GibridPrise#
+
+
+
+
+MagazMenu{
+- Здарова, дорогой #PlayerName#. Чего желаешь?
+
+1. Случайное животное. (#AlchemonPrise# #Valyta#)
+2.Создать алхимона. (#GibridPrise# #Valyta#)
+
+В кармане: #PlayerGroshi# #Valyta#
+
+Q - выход
+} 

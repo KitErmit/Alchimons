@@ -1,0 +1,15 @@
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/Alchemons.deps.json
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/Alchemons.runtimeconfig.json
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/Alchemons.runtimeconfig.dev.json
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/Alchemons.dll
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/ref/Alchemons.dll
+/Users/kitaermit/Projects/Alchemons/Alchemons/bin/Release/net5.0/Alchemons.pdb
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.AssemblyInfoInputs.cache
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.AssemblyInfo.cs
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.csproj.CoreCompileInputs.cache
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.dll
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/ref/Alchemons.dll
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.pdb
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.genruntimeconfig.cache
+/Users/kitaermit/Projects/Alchemons/Alchemons/obj/Release/net5.0/Alchemons.csproj.AssemblyReference.cache
